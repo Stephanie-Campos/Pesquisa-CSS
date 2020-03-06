@@ -37,15 +37,12 @@ p {color:white; font-size: 10px;}
   ►Inline - a regra CSS é usada como um atributo de um elemento HTML – o atributo style. Esta forma não é muito recomendada pela dificuldade de organização e manutenção das regras CSS por elemento.
 ex:
 
-<!DOCTYPE html>
-<html>
+
 <body style="background-color:black;">
 
-<h1 style="color:white;padding:30px;">Hostinger Tutorials</h1>
-<p style="color:white;">Something usefull here.</p>
+<h1 style="color:white;padding:30px;">Hostinger Tutorials< / h1>
+<p style="color:white;">Something usefull here.< / p>
 
-</body>
-</  html>
 
 #### </   head> (Retirar os espaçõs para a utilização do código)
   
