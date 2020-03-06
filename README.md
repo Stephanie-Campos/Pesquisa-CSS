@@ -21,7 +21,7 @@ ex:
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
+</   head>
   
   ►Interna - as regras CSS ficam no próprio documento HTML, dentro do elemento <style>. Este método geralmente é usado para sites com poucas páginas ou para determinar regras específicas de uma página.
 ex:
@@ -32,7 +32,7 @@ p {color:white; font-size: 10px;}
 .center {display: block; margin: 0 auto;}
 #button-go, #button-back {border: solid 1px black;}
 </style>
-</head>
+</   head>
   
   ►Inline - a regra CSS é usada como um atributo de um elemento HTML – o atributo style. Esta forma não é muito recomendada pela dificuldade de organização e manutenção das regras CSS por elemento.
 ex:
@@ -45,8 +45,9 @@ ex:
 <p style="color:white;">Something usefull here.</p>
 
 </body>
-</html>
+</  html>
 
+#### </   head> (Retirar os espaçõs para a utilização do código)
   
 ### Framework's
    Sendo um facilitador no desenvolvimento de diversas aplicações, sem dúvida, sua utilização poupa tempo e custos para quem utiliza, pois de forma mais básica, são templates que provém diversas funções que podem ser utilizadas em qualquer projeto e com o resultado bem bacana. Traz consigo diversas séries de classes e funções predefinidas que na hora do desenvolvimento torna-se agregadores de otimização de projetos, seja eles em aplicativos, sistemas ou interface.
